@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211979999856",
+    "project_id": "firetesting-38cc5",
+    "storage_bucket": "firetesting-38cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211979999856:android:d1cdcccb2afc7fac6f32b5",
+        "android_client_info": {
+          "package_name": "com.example.kide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211979999856-8q0httqjid90b5522htgumf04rf9hjms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0GTrpPM94PG8MUNuozjLVOjI91qC-0vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211979999856-8q0httqjid90b5522htgumf04rf9hjms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
